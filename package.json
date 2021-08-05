@@ -1,0 +1,8 @@
+{
+    "name": "autoscaling_ec2_node_app",
+    "version": "1.0.0",
+    "author": "sandunikah",
+    "dependencies": {
+        "express": "4.17.1"
+    }
+}
